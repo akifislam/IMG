@@ -5,10 +5,12 @@ Department of CSE, University of Rajshahi<br>
 iamakifislam@gmail.com<br><br><br>
 
 ## List of Experiments
-[F denotes Fundamentals; xA, xB denotes experiments from teacher's list]
+<p>N.B.- F denotes Fundamental Experiments whereas xA, xB (i.e 3A, 3B) denotes experiments from teacher's assigned list </p>
 
 
-<h2>
+<h5>
+<p>
+<ul>
 (1) F1. How to Load an Image?<br><br> 
 (2) F2. Understanding Image Matrix<br><br>
 (3) 1A. Change Spatial Resolution of an Image<br><br>
@@ -30,5 +32,6 @@ iamakifislam@gmail.com<br><br><br>
 (19) F12. Point Detection<br><br>
 (20) F13. Edge Detection<br><br>
 (21) F14. Negative of an Image<br><br>
-
-</h2>
+</ul>
+</p>
+</h5>
