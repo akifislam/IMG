@@ -28,6 +28,7 @@ iamakifislam@gmail.com<br><br><br>
 (17) F10. Perform Mirror Padding<br><br>
 (18) F11. Line Detection<br><br>
 (19) F12. Point Detection<br><br>
-(20) F13. Edge Detection<br><br><br>
+(20) F13. Edge Detection<br><br>
+(21) F14. Negative of an Image<br><br>
 
 </h2>
