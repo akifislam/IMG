@@ -11,7 +11,7 @@ iamakifislam@gmail.com<br><br><br>
 <h5>
 <p>
 <ul>
-(1) F1. How to Load an Image?<br><br> 
+(1) F1. How to Load an Image?<br><br>
 (2) F2. Understanding Image Matrix<br><br>
 (3) 1A. Change Spatial Resolution of an Image<br><br>
 (4) 1B. Change Intensity Level of an Image<br><br>
