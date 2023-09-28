@@ -27,7 +27,7 @@ iamakifislam@gmail.com<br><br><br>
 (14) F8. Add Randomly Salt-Pepper to an Image<br><br>
 (15) 3A. Apply average and median spatial filters and calculate PSNR<br><br>
 (16) F9. Perform 0-1 Padding<br><br>
-(17) F10. Perform Mirror Padding<br><br>
+(17) F10. Perform WRAPPING Padding<br><br>
 (18) F11. Line Detection<br><br>
 (19) F12. Point Detection<br><br>
 (20) F13. Edge Detection<br><br>
